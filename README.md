@@ -1,4 +1,4 @@
-# Website Status Checker
+# IP Checker
 
 This Python script checks your current IP and compares it to the contents of the JSON file, updating it if necessary.
 
